@@ -246,7 +246,7 @@ bash
 cd /Users/pankaj/.gemini/antigravity/scratch/attendmate
 python3 -m http.server 3000
 
-Then open http://localhost:3000 in your mobile browser or desktop browser.
+Then open http://pankajkumar751.github.io/attendmate in your mobile browser or desktop browser.
 
 Option 2: Node / npx (if Node is installed)
 bash
